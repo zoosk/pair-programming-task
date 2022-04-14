@@ -12,7 +12,7 @@ You need to design a machine based on the following requirements:
 
 ### Development
 
-- Use the language you feel most comfortable with – ideally PHP, Java or nodejs
+- Use the language you feel most comfortable with – ideally PHP or Java
 - There is no need to showcase usage of any major framework (Spring/Laravel/...) for the task. Feel free to do so, in case you feel it helps you getting things done.
 - We need to ensure that any change we do is working, our employees would be disappointed if we roll out a non-functioning vending machine, and we do value their opinion. Thus, anything we deliver has to be in good shape and quality. Maybe TDD could be a feasible approach.
 ### Sending the task to us
